@@ -699,13 +699,13 @@ DOMAIN-SUFFIX,sta.ganji.com
 DOMAIN-SUFFIX,tralog.ganji.com
 
 // Google
-#DOMAIN-KEYWORD,googleads
+//DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,afd.l.google.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
+//DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletakes.com
